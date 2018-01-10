@@ -7,3 +7,19 @@
 **Thoughts:** Really enjoyed it and found python to be a lot easier to use than java. Very refreshing.
 
 **Link to work:** [Python Projects](https://github.com/JohanneA/PythonProjects/tree/master/venv)
+
+### Day 2: January 9, 2018
+
+**Today's Progress**: Did an hour of reading and doing exercised from The C programming languages in the morning and an hour of python programming in the afternoon. Had fun making a small Hangman game in python.
+
+**Thoughts:** I found C surprisingly easy, as the syntax is very similar to java. Python just keeps impressing me with how nice and easy it is to do things.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 3: January 10, 2018
+
+**Today's Progress**: Did more C exercises in the morning with simple output manipulation. 
+
+**Thoughts:** So far I'm liking working with C, but I'm definitely going to up the difficulty tomorrow.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
