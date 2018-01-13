@@ -18,8 +18,16 @@
 
 ### Day 3: January 10, 2018
 
-**Today's Progress**: Did more C exercises in the morning with simple output manipulation. 
+**Today's Progress**: Did more C exercises in the morning with simple output manipulation.
 
 **Thoughts:** So far I'm liking working with C, but I'm definitely going to up the difficulty tomorrow.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 4: January 11, 2018
+
+**Today's Progress**: More C, started working with pointers and the difference between '\*' and '&'.
+
+**Thoughts:** .
 
 **Link to work:** [Github](https://github.com/JohanneA/)
