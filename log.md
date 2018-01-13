@@ -28,6 +28,14 @@
 
 **Today's Progress**: More C, started working with pointers and the difference between '\*' and '&'.
 
-**Thoughts:** .
+**Thoughts:** Pointers are interesting and something that I'm going to need to practice.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 4: January 11, 2018
+
+**Today's Progress**: Still working on C and have now started to implement some of the standard C library. I also tried making my own header file and a test program that takes in command line arguments.
+
+**Thoughts:** I had some trouble getting the .h file to work with my test file, but it ultimately turned out to be an error with pointers. Pointers are going to be more difficult than first anticipated.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
