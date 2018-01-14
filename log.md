@@ -32,10 +32,26 @@
 
 **Link to work:** [Github](https://github.com/JohanneA/)
 
-### Day 4: January 11, 2018
+### Day 5: January 12, 2018
 
 **Today's Progress**: Still working on C and have now started to implement some of the standard C library. I also tried making my own header file and a test program that takes in command line arguments.
 
 **Thoughts:** I had some trouble getting the .h file to work with my test file, but it ultimately turned out to be an error with pointers. Pointers are going to be more difficult than first anticipated.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 6: January 13, 2018
+
+**Today's Progress**: By far the toughest day yet, I really struggled to get through the hour, but I managed. I continued my implementation of the C library, by working on strchr and setting up the header file with all the functions I want to make.
+
+**Thoughts:** Pointers are still very magical, but the repetition helps.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 7: January 14, 2018
+
+**Today's Progress**: Still struggling with pointers and making different functions from the C library. It's nice with a challenge though.
+
+**Thoughts:** C is not as easy as I first thought... 
 
 **Link to work:** [Github](https://github.com/JohanneA/)
