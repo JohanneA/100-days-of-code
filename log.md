@@ -52,6 +52,30 @@
 
 **Today's Progress**: Still struggling with pointers and making different functions from the C library. It's nice with a challenge though.
 
-**Thoughts:** C is not as easy as I first thought... 
+**Thoughts:** C is not as easy as I first thought...
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 8: January 15, 2018
+
+**Today's Progress**: Went back to the C book to do more basic stuff with pointers as strlcpy was making me crazy
+
+**Thoughts:** Feeling a little helpless atm, so back to basics
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 9: January 16, 2018
+
+**Today's Progress**: Started implementing strcat as that seemed easier than strlcpy. My understanding of pointers is slowly increasing.
+
+**Thoughts:** Barely got my hour in today, as C pointers are still difficult. I started strcat.c, but didn't finish it.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 10: January 17, 2018
+
+**Today's Progress**: Spent the entire hour debugging strcpy, but I got it! Happy days.
+
+**Thoughts:** I feel a bit more confident with pointers but 'The C programming language' is definitely not a good first introduction to C book. The pointers chapter was a bit easier to understand this time around though.
 
 **Link to work:** [Github](https://github.com/JohanneA/)

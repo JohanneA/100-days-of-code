@@ -1,5 +1,6 @@
 #ifndef MYSTR_H_
 #define MYSTR_H_
+char * my_strcat(char *beg, char *end);
 const char *my_strchr(const char *s, int c);
 unsigned my_strlcpy(char *dst, const char *src, unsigned n);
 /*unsigned my_strlcat(char *dst, const char *src, unsigned n);
