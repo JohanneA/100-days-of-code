@@ -2,10 +2,9 @@
 #include <stdio.h>
 
 int main(int argc, char** argv) {
-  char str1[50] = "Hello";
+  char str[50];
 
-
-  printf("String 1 |%s| - String 2 |%s| - Together |%s|\n", argv[1], argv[2], my_strcat(str1, argv[2]));
+  printf("String 1 |%s|: copy |%s|\n", argv[1], my_strncpy(str, argv[1], 50));
 
   return 0;
 }

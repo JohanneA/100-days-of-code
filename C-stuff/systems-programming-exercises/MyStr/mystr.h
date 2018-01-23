@@ -1,8 +1,9 @@
 #ifndef MYSTR_H_
 #define MYSTR_H_
 char * my_strcat(char *beg, char *end);
+int strend(char *s, char *t);
 const char *my_strchr(const char *s, int c);
-unsigned my_strlcpy(char *dst, const char *src, unsigned n);
+char *my_strncpy(char *dst, const char *src, unsigned n);
 /*unsigned my_strlcat(char *dst, const char *src, unsigned n);
 int my_strncmp(const char *s1, const char *s2, unsigned n);
 void *my_memcpy(void *dst, const void *src, unsigned n);
