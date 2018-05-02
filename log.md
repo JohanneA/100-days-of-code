@@ -12,6 +12,14 @@
 
 **Today's Progress**: Stuck on making the very last test on my C IJVM pass and I have no idea why it doesn't pass :/ Oh well, that means practice with gdb. Also did a bit of jQuery on my budget app.
 
-**Thoughts:** I'm so close with my IJVM, but so far still. I have a few ideas as to what happens but I don't understand why. Also did a bit of javascript/jQuery, definitely rusty with both of those, but I'll get some more practice in today. 
+**Thoughts:** I'm so close with my IJVM, but so far still. I have a few ideas as to what happens but I don't understand why. Also did a bit of javascript/jQuery, definitely rusty with both of those, but I'll get some more practice in today.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 3: May 2, 2018
+
+**Today's Progress**: Memory leaks, memory leaks everywhere. I thought I'd be done with my CIJVM today, but nope, I still have to fix a few things. Also did shamefully little on my budget app. But I did listen to a podcast on containers.
+
+**Thoughts:** Turns out my bug as most likely caused by the logger I used and many of my memory leaks too. At least I learned how to interpret valgrind messages though. For my javascript app, I decided that I need to re-learn quite a bit to make it work the way I want, so I'm back to The Web Developer Bootcamp. 
 
 **Link to work:** [Github](https://github.com/JohanneA/)
