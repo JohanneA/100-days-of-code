@@ -20,6 +20,14 @@
 
 **Today's Progress**: Memory leaks, memory leaks everywhere. I thought I'd be done with my CIJVM today, but nope, I still have to fix a few things. Also did shamefully little on my budget app. But I did listen to a podcast on containers.
 
-**Thoughts:** Turns out my bug as most likely caused by the logger I used and many of my memory leaks too. At least I learned how to interpret valgrind messages though. For my javascript app, I decided that I need to re-learn quite a bit to make it work the way I want, so I'm back to The Web Developer Bootcamp. 
+**Thoughts:** Turns out my bug as most likely caused by the logger I used and many of my memory leaks too. At least I learned how to interpret valgrind messages though. For my javascript app, I decided that I need to re-learn quite a bit to make it work the way I want, so I'm back to The Web Developer Bootcamp.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 4: May 3, 2018
+
+**Today's Progress**: Finished up the C IJVM and did the DOM Manipulation section on Web Dev Bootcamp and the first section of Intro to Cyber security on Udacity.
+
+**Thoughts:** So many things I want to learn and preferably all at once.. Oh well, I'm going to stick with my web dev stuff for now and do a bit of cyber security on the side. 
 
 **Link to work:** [Github](https://github.com/JohanneA/)
