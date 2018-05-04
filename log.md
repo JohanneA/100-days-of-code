@@ -28,6 +28,14 @@
 
 **Today's Progress**: Finished up the C IJVM and did the DOM Manipulation section on Web Dev Bootcamp and the first section of Intro to Cyber security on Udacity.
 
-**Thoughts:** So many things I want to learn and preferably all at once.. Oh well, I'm going to stick with my web dev stuff for now and do a bit of cyber security on the side. 
+**Thoughts:** So many things I want to learn and preferably all at once.. Oh well, I'm going to stick with my web dev stuff for now and do a bit of cyber security on the side.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 5: May 4, 2018
+
+**Today's Progress**: Made comments on the tricky parts of my IJVM and finished up Advanced DOM manipulations and started the Color Coding Game. Also did half a section on Software Security on Udacity.
+
+**Thoughts:** A bit slow today, learning by doing takes a lot of patience. Also need to come up with a new C project 
 
 **Link to work:** [Github](https://github.com/JohanneA/)
