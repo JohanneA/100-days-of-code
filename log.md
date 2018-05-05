@@ -36,6 +36,14 @@
 
 **Today's Progress**: Made comments on the tricky parts of my IJVM and finished up Advanced DOM manipulations and started the Color Coding Game. Also did half a section on Software Security on Udacity.
 
-**Thoughts:** A bit slow today, learning by doing takes a lot of patience. Also need to come up with a new C project 
+**Thoughts:** A bit slow today, learning by doing takes a lot of patience. Also need to come up with a new C project
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 6: May 5, 2018
+
+**Today's Progress**: Made progress on my budget app and read a chapter on information security. Also did some SQL practice.
+
+**Thoughts:** Got most of my coding done early in the morning, so it doesn't feel like I did so much in the evening. Also revised SQL on hackerrank, really like website, so I think I'll use it some more.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
