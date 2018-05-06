@@ -47,3 +47,11 @@
 **Thoughts:** Got most of my coding done early in the morning, so it doesn't feel like I did so much in the evening. Also revised SQL on hackerrank, really like website, so I think I'll use it some more.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 7: May 6, 2018
+
+**Today's Progress**: Got some more functionality added to my budget app, I can now add rows. Next up figuring out how I want to deal with the backend. Also did some Hackerrank stuff and finished the section Software Security on Udacity.
+
+**Thoughts:** Javascript and I are sort of agreeing at the moment and it's nice.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
