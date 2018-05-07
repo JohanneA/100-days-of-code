@@ -55,3 +55,11 @@
 **Thoughts:** Javascript and I are sort of agreeing at the moment and it's nice.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 8: May 7, 2018
+
+**Today's Progress**: Didn't do much coding today, but I did some research on NodeJS. Also set up github pages, so I can start building my website from there.
+
+**Thoughts:** Why is DNS stuff always so complicated...
+
+**Link to work:** [Github](https://github.com/JohanneA/)
