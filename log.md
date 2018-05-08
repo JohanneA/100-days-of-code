@@ -63,3 +63,11 @@
 **Thoughts:** Why is DNS stuff always so complicated...
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 9: May 8, 2018
+
+**Today's Progress**: Again a day of not so much coding, but I did plan out the coding that I need to do for my budget app. Also did the set up for NodeJS and MySQL. I also did research for a blog post on Makefiles I want to write.
+
+**Thoughts:** NodeJS seems pretty cool, can't wait to start playing around with it and some of the packages it offers.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
