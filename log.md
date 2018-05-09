@@ -71,3 +71,11 @@
 **Thoughts:** NodeJS seems pretty cool, can't wait to start playing around with it and some of the packages it offers.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 10: May 9, 2018
+
+**Today's Progress**: Not much coding again today, I can't seem to get it done before breakfast :/ But I did Express on Web Developer Bootcamp and got my files all set up, still need to play around with it though. Also wrote notes for Stack buffer overflows and more makefile research. I just tried to set my self up for a good days work tomorrow.
+
+**Thoughts:** It's a bit slow progress at the moment, but I'll keep on keeping on and get through it. 
+
+**Link to work:** [Github](https://github.com/JohanneA/)
