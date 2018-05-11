@@ -87,4 +87,11 @@
 **Thoughts:** I really enjoyed working with express, surprising much.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
-hihi
+
+### Day 12: May 11, 2018
+
+**Today's Progress**: Ran into some POST problems today with my express server that I have to solve :/ Also did some more makefile stuff which was really cool. I had some SQL to practice too for my Databases class so I completed the whole section on basic joins on Hackerrank. Most excitingly, I went to a meetup with Code Geek Carrots on Github which was really nice.
+
+**Thoughts:** I'm not looking forward to debugging my POST problems. But I did really enjoy the meetup and I can't wait to go to another one!
+
+**Link to work:** [Github](https://github.com/JohanneA/)
