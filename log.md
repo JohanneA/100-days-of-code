@@ -84,6 +84,8 @@
 
 **Today's Progress**: Did a lot of debugging for express because my localhost + express.js did not want to cooperate. But I got a simple backend to work for my budget app which was awesome. Also watched some operating system security videos.
 
-**Thoughts:** I really enjoyed working with express, surprising much. 
+**Thoughts:** I really enjoyed working with express, surprising much.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+testing testing
