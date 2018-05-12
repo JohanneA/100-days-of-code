@@ -95,3 +95,11 @@
 **Thoughts:** I'm not looking forward to debugging my POST problems. But I did really enjoy the meetup and I can't wait to go to another one!
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 13: May 12, 2018
+
+**Today's Progress**: Fixed my POSTing problems *high five* and did all the stuff I wanted to do for my front end of the budget app. Now I need to do the backend with the database and look into socket.io to update my front-end. It's going to be cool!
+
+**Thoughts:** I felt like I hit some flow today and it was really nice. Also did a lot more coding than the last couple of days.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
