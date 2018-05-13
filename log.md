@@ -103,3 +103,11 @@
 **Thoughts:** I felt like I hit some flow today and it was really nice. Also did a lot more coding than the last couple of days.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 14: May 13, 2018
+
+**Today's Progress**: Did some more bug fixing on my budget app and played around with using JSON in node.js, pretty productive programming wise.
+
+**Thoughts:** Got some good solid programming done today and it was nice. The budget app is really coming along!
+
+**Link to work:** [Github](https://github.com/JohanneA/)
