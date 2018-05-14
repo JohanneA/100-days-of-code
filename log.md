@@ -111,3 +111,11 @@
 **Thoughts:** Got some good solid programming done today and it was nice. The budget app is really coming along!
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 15: May 14, 2018
+
+**Today's Progress**: Got my mysql database setup with the table. Also did some SQL stuff on hackerrank and started writing my blog post.
+
+**Thoughts:** Had a really good day today, I'm really enjoying working on my budget app at the moment.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
