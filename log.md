@@ -119,3 +119,11 @@
 **Thoughts:** Had a really good day today, I'm really enjoying working on my budget app at the moment.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 16: May 15, 2018
+
+**Today's Progress**: Managed to get my database all up and running with queries to it. Figured out how to parse unknown keys in JSON and get their values. Fixed some issues and founds some other ones as well. Also finished up the Operating Systems security on Udacity.
+
+**Thoughts:** I'm proud of the progress I made today, a solid effort I think.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
