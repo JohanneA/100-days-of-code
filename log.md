@@ -127,3 +127,11 @@
 **Thoughts:** I'm proud of the progress I made today, a solid effort I think.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 17: May 16, 2018
+
+**Today's Progress**: Did not make a lot of progress today as I kept running into errors that were difficult to fix. But I figured out enough to give it a new go tomorrow with another possibly better solution.
+
+**Thoughts:** Very frustrating hour of code, but I kept at it.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
