@@ -135,3 +135,11 @@
 **Thoughts:** Very frustrating hour of code, but I kept at it.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 18: May 17, 2018
+
+**Today's Progress**: Discovered async in NodeJS and had more problems with my database, but I'll figure it out tomorrow
+
+**Thoughts:** Seems I have a lot more to learn at the moment
+
+**Link to work:** [Github](https://github.com/JohanneA/)
