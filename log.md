@@ -143,3 +143,11 @@
 **Thoughts:** Seems I have a lot more to learn at the moment
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 19: May 18, 2018
+
+**Today's Progress**: Made my backend work, now I just have to display the data! :D
+
+**Thoughts:** So happy it finally works and the asynchronous stuff didn't get to me.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
