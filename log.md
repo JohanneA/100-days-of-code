@@ -151,3 +151,19 @@
 **Thoughts:** So happy it finally works and the asynchronous stuff didn't get to me.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 20: May 19, 2018
+
+**Today's Progress**: Fixed a bug in my backend with string parsing. Also made the category input column work.
+
+**Thoughts:** So happy it finally works and the asynchronous stuff didn't get to me.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 21 - 22: May 20 and 21, 2018
+
+**Today's Progress**: Did some research into template engines for my dynamic content. Did not do as much because of family weekend
+
+**Thoughts:** Sticking to this while with family is difficult, but not impossible!
+
+**Link to work:** [Github](https://github.com/JohanneA/)
