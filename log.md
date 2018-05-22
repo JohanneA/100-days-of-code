@@ -167,3 +167,11 @@
 **Thoughts:** Sticking to this while with family is difficult, but not impossible!
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 23 May 22, 2018
+
+**Today's Progress**: Got EJS set up on my budget app and ready to use. Also did a bunch of debugging for a friend and helped him out with an algorithm for a web app. So I got to see MongoDB and mongoose in action along with ejs and just general asynchronous madness.
+
+**Thoughts:** Found out why deadlines are useful to keep you motivated and get stuff done. I'll try to implement that into my workflow.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
