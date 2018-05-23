@@ -175,3 +175,11 @@
 **Thoughts:** Found out why deadlines are useful to keep you motivated and get stuff done. I'll try to implement that into my workflow.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 24 May 23, 2018
+
+**Today's Progress**: Got my dynamic content to work with ejs sort of. Now I just need to sort some asynchronous bugs out that I have been avoiding.
+
+**Thoughts:** 
+
+**Link to work:** [Github](https://github.com/JohanneA/)
