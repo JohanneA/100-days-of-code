@@ -180,6 +180,14 @@
 
 **Today's Progress**: Got my dynamic content to work with ejs sort of. Now I just need to sort some asynchronous bugs out that I have been avoiding.
 
-**Thoughts:** 
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 25 May 24, 2018
+
+**Today's Progress**: Almost done with the first version! Managed to get the sums working, now it's just asynchronous issues and the income part I need to finish. Also did a few SQL queries on Hackerrank.
+
+**Thoughts:** Made some good progress today! :D
 
 **Link to work:** [Github](https://github.com/JohanneA/)
