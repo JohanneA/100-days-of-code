@@ -191,3 +191,11 @@
 **Thoughts:** Made some good progress today! :D
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 26 May 25, 2018
+
+**Today's Progress**: Did some reading on asynchronous programming and using promises. Also completed all the easy SQL questions on Hackerrank
+
+**Thoughts:** A bit slow today because life got in the way, but I managed.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
