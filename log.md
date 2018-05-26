@@ -199,3 +199,11 @@
 **Thoughts:** A bit slow today because life got in the way, but I managed.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 27 May 26, 2018
+
+**Today's Progress**: Went to another meetup today and did some more budget app coding, but mostly talking. Fixed a bug in my frontend and now I need to do some more asynchronous research and experimentation.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
