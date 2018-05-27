@@ -207,3 +207,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 28 May 27, 2018
+
+**Today's Progress**: Read and wrote notes for asynchronous programming, also tried to wrap my head around how I would implement promises into my budget app.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/programming-notes)
