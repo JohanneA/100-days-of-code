@@ -215,3 +215,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/programming-notes)
+
+### Day 29 May 278, 2018
+
+**Today's Progress**: Got my budget app mostly working, although it still has a few quirks. Also did some more note taking and learned about hoisting and immediately invoked function expressions. Also made a java program that generates data for some exam practice in SQL.
+
+**Thoughts:** Did a lot of cool stuff today.
+
+**Link to work:** [Github](https://github.com/JohanneA/programming-notes)
