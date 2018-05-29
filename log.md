@@ -216,10 +216,17 @@
 
 **Link to work:** [Github](https://github.com/JohanneA/programming-notes)
 
-### Day 29 May 278, 2018
+### Day 29 May 28, 2018
 
 **Today's Progress**: Got my budget app mostly working, although it still has a few quirks. Also did some more note taking and learned about hoisting and immediately invoked function expressions. Also made a java program that generates data for some exam practice in SQL.
 
 **Thoughts:** Did a lot of cool stuff today.
+
+**Link to work:** [Github](https://github.com/JohanneA/programming-notes)
+
+### Day 30 May 29, 2018
+
+**Today's Progress**: Did some Promise practicing and tried to follow a tutorial on making my own promise class, but I ended up just playing around with my own little promise program. Also wrote notes from my readings of Test Driven Development.
+**Thoughts:** Not so much work got done, but I also had an exam and prep for that.
 
 **Link to work:** [Github](https://github.com/JohanneA/programming-notes)
