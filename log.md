@@ -230,3 +230,10 @@
 **Thoughts:** Not so much work got done, but I also had an exam and prep for that.
 
 **Link to work:** [Github](https://github.com/JohanneA/programming-notes)
+
+### Day 31 May 30, 2018
+
+**Today's Progress**: Did some more playing around with Promises to the point where I feel confident implementing it in my budget app.
+**Thoughts:** Birthday today, so proud of getting some work in.
+
+**Link to work:** [Github](https://github.com/JohanneA/programming-notes)
