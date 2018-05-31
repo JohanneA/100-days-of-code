@@ -231,9 +231,10 @@
 
 **Link to work:** [Github](https://github.com/JohanneA/programming-notes)
 
-### Day 31 May 30, 2018
 
-**Today's Progress**: Did some more playing around with Promises to the point where I feel confident implementing it in my budget app.
-**Thoughts:** Birthday today, so proud of getting some work in.
+### Day 32 May 31, 2018
 
-**Link to work:** [Github](https://github.com/JohanneA/programming-notes)
+**Today's Progress**: Started refactoring my budget app and implementing promises
+**Thoughts:** Got a new extra monitor.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
