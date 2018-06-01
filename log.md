@@ -235,6 +235,15 @@
 ### Day 32 May 31, 2018
 
 **Today's Progress**: Started refactoring my budget app and implementing promises
+
 **Thoughts:** Got a new extra monitor.
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 33 June 1, 2018
+
+**Today's Progress**: Got my html to render my database data nicely with the help of Promises, really proud I made that work. Also did some UX design notes.
+
+**Thoughts:** Lean UX is not what I thought it would be, still really cool.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
