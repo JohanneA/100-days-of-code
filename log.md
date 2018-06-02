@@ -247,3 +247,11 @@
 **Thoughts:** Lean UX is not what I thought it would be, still really cool.
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 34 June 2, 2018
+
+**Today's Progress**: Made my expenses section work, got to use Promise.all() and figured out a way to do my sql quite nicely. I also finished up my Lean UX notes.
+
+**Thoughts:** Really happy with my budget app, version 1 is close to being done! 
+
+**Link to work:** [Github](https://github.com/JohanneA/)
