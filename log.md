@@ -252,6 +252,14 @@
 
 **Today's Progress**: Made my expenses section work, got to use Promise.all() and figured out a way to do my sql quite nicely. I also finished up my Lean UX notes.
 
-**Thoughts:** Really happy with my budget app, version 1 is close to being done! 
+**Thoughts:** Really happy with my budget app, version 1 is close to being done!
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 35 June 3, 2018
+
+**Today's Progress**: Finished up the rough version of my budget app today! Time to play around with styling/responsiveness and also implement some of the cool features I wanted to implement
+
+**Thoughts:** Super happy with where I'm at with my budget app right now :D 
 
 **Link to work:** [Github](https://github.com/JohanneA/)
