@@ -260,6 +260,22 @@
 
 **Today's Progress**: Finished up the rough version of my budget app today! Time to play around with styling/responsiveness and also implement some of the cool features I wanted to implement
 
-**Thoughts:** Super happy with where I'm at with my budget app right now :D 
+**Thoughts:** Super happy with where I'm at with my budget app right now :D
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 36 June 4, 2018
+
+**Today's Progress**: Made the buttons for removing rows in my budget.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 37 June 5, 2018
+
+**Today's Progress**: Made POST request functionality for sending requests to remove rows from database
+
+**Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
