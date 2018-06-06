@@ -231,6 +231,14 @@
 
 **Link to work:** [Github](https://github.com/JohanneA/programming-notes)
 
+### Day 31 May 30, 2018
+
+**Today's Progress**: Don't remember, but it's missing
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
 
 ### Day 32 May 31, 2018
 
@@ -275,6 +283,14 @@
 ### Day 37 June 5, 2018
 
 **Today's Progress**: Made POST request functionality for sending requests to remove rows from database
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 38 June 6, 2018
+
+**Today's Progress**: Got my remove functionality to work, now I just need to make the id's work so they match what's in the database after deletion
 
 **Thoughts:**
 
