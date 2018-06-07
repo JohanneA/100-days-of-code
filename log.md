@@ -295,3 +295,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 39 June 7, 2018
+
+**Today's Progress**: Ran into some problems with deleting and having the id's match in the database and client side. So I researched ideas on how to handle it, couldn't find much, but I changed my database layout so the entries are not actually deleted.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
