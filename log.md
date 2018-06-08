@@ -303,3 +303,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 40 June 8, 2018
+
+**Today's Progress**: Pretty sure I made everything worse, so I'm starting over tomorrow. But I learned a few things that I shouldn't do and that jQuery is nicer than vanilla javascript.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
