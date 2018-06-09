@@ -311,3 +311,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 41 June 9, 2018
+
+**Today's Progress**: Started over on the client side today, which was really nice and much better. Still have some issues but at least the code is manageable now!
+
+**Thoughts:** Looking javascript functions up is a much better idea than trying to use properties like crazy.s
+
+**Link to work:** [Github](https://github.com/JohanneA/)
