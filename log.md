@@ -319,3 +319,11 @@
 **Thoughts:** Looking javascript functions up is a much better idea than trying to use properties like crazy.s
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 42 June 10, 2018
+
+**Today's Progress**: Finished up my budget app, it has all the functionality I want it to have, so time to move on.
+
+**Thoughts:** 
+
+**Link to work:** [Github](https://github.com/JohanneA/)
