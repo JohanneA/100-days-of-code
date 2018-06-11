@@ -316,7 +316,7 @@
 
 **Today's Progress**: Started over on the client side today, which was really nice and much better. Still have some issues but at least the code is manageable now!
 
-**Thoughts:** Looking javascript functions up is a much better idea than trying to use properties like crazy.s
+**Thoughts:** Looking javascript functions up is a much better idea than trying to use properties like crazy
 
 **Link to work:** [Github](https://github.com/JohanneA/)
 
@@ -324,6 +324,14 @@
 
 **Today's Progress**: Finished up my budget app, it has all the functionality I want it to have, so time to move on.
 
-**Thoughts:** 
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 43 June 11, 2018
+
+**Today's Progress**: Planned out my next project, a c testing framework
+
+**Thoughts:** Really getting ready to test out some test driven development
 
 **Link to work:** [Github](https://github.com/JohanneA/)
