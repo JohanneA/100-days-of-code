@@ -335,3 +335,11 @@
 **Thoughts:** Really getting ready to test out some test driven development
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 44 June 12, 2018
+
+**Today's Progress**: Did some more planning and overview of what I should implement. Also played around with macros in C
+
+**Thoughts:** Macros are really cool!
+
+**Link to work:** [Github](https://github.com/JohanneA/)
