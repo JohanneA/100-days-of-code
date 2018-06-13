@@ -343,3 +343,11 @@
 **Thoughts:** Macros are really cool!
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 45 June 13, 2018
+
+**Today's Progress**: Figured out how to print colors to the console in C, also more macro stuff.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
