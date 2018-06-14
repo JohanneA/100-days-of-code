@@ -351,3 +351,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 46 June 14, 2018
+
+**Today's Progress**: Started making a chrome extension today, followed a tutorial and planned out what to do for the extension.
+
+**Thoughts:** Starting with a new thing is difficult, I'm in need of momentum again...
+
+**Link to work:** [Github](https://github.com/JohanneA/)
