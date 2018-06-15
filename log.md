@@ -359,3 +359,11 @@
 **Thoughts:** Starting with a new thing is difficult, I'm in need of momentum again...
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 47 June 15, 2018
+
+**Today's Progress**: Worked some more on my chrome extension. Figured out some browser/page action stuff and worked on the drop down menu. It's moving along quite nicely
+
+**Thoughts:** 
+
+**Link to work:** [Github](https://github.com/JohanneA/)
