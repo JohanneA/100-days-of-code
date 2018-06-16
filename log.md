@@ -364,6 +364,14 @@
 
 **Today's Progress**: Worked some more on my chrome extension. Figured out some browser/page action stuff and worked on the drop down menu. It's moving along quite nicely
 
-**Thoughts:** 
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 48 June 16, 2018
+
+**Today's Progress**: Did the styling of my pop up for my chrome extension. Onto the functionality!
+
+**Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
