@@ -375,3 +375,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 49 June 17, 2018
+
+**Today's Progress**: Played around with listeners and the chrome API in general today. Got to compare the url with my inserted text.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
