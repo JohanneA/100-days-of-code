@@ -383,3 +383,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 50 June 18, 2018
+
+**Today's Progress**: Got my extension to redirect to a specific html page.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
