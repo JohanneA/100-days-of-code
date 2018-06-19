@@ -391,3 +391,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 51 June 19, 2018
+
+**Today's Progress**: Learned some stuff not to do today, so not using the web request API but I'll look into the tabs API.s
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
