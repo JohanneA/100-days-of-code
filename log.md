@@ -399,3 +399,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 52 June 20, 2018
+
+**Today's Progress**: Had more problems with my chrome extension today, so I'm going back to basics. Also tried a Kattis problem in Java.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
