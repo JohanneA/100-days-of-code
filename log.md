@@ -407,3 +407,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 53 June 21, 2018
+
+**Today's Progress**: Decided to take a small break from my chrome app today. Finished my problem on kattis and finished reading test driven development.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
