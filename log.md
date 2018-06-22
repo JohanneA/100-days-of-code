@@ -415,3 +415,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 54 June 22, 2018
+
+**Today's Progress**: Solved two problems on kattis today
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
