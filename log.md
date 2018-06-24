@@ -431,3 +431,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 56 June 24, 2018
+
+**Today's Progress**: Did one more Kattis problem and fixed made a little bit of progress on my chrome extension. Pro tip: make sure code you copy actually does what you want it to do. 
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
