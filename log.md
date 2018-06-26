@@ -447,3 +447,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 58 June 26, 2018
+
+**Today's Progress**: Managed to get the redirection to work like I wanted it to! :D
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
