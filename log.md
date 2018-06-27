@@ -455,3 +455,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 59 June 27, 2018
+
+**Today's Progress**: Working on the menu, but the css is teasing me. Also got it to load websites from the storage. Wrote some notes on the class loader in Java.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
