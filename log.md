@@ -463,3 +463,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 60 June 28, 2018
+
+**Today's Progress**: Made the input part of the menu work and did some debugging, which was sort of successful. 
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
