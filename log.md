@@ -466,7 +466,15 @@
 
 ### Day 60 June 28, 2018
 
-**Today's Progress**: Made the input part of the menu work and did some debugging, which was sort of successful. 
+**Today's Progress**: Made the input part of the menu work and did some debugging, which was sort of successful.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 61 June 29, 2018
+
+**Today's Progress**: Redirection now works completely and also adding websites. I made so my menu.js sends a message to the background.js when a new url is added, so the background can start checking for that website too.
 
 **Thoughts:**
 
