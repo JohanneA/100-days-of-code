@@ -479,3 +479,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 62 June 30, 2018
+
+**Today's Progress**: Added remove functionality, but only so you can remove it when you're on the site you want to remove.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
