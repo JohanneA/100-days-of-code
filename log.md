@@ -487,3 +487,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 63 July 1, 2018
+
+**Today's Progress**: Worked on the menu styling and added a hover effect to the remove buttons. Also centered the text that'll be doing the countdown.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
