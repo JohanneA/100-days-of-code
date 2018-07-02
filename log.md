@@ -495,3 +495,11 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 64 July 2, 2018
+
+**Today's Progress**: Made a timer for the countdown page and looked into ways to improve my redirection check.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
