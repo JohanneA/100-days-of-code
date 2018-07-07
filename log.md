@@ -503,3 +503,43 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 65 July 3, 2018
+
+**Today's Progress**: Some styling and bug fixing
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 66 July 4, 2018
+
+**Today's Progress**: More big fixing on the extension and did a problem on kattis.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 67 July 5, 2018
+
+**Today's Progress**: Bug fixing and settings menu.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 68 July 6, 2018
+
+**Today's Progress**: Made it possible to change the time waiting.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 69 July 7, 2018
+
+**Today's Progress**: More bug fixing, trying to sort out some issues with communication.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
