@@ -543,3 +543,51 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 70 July 8, 2018
+
+**Today's Progress**: Did some hackerrank and looked at my chrome extension
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 71 July 8, 2018
+
+**Today's Progress**: Did Java exercises on hackerrank, string manipulation stuff and just java recap
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 71 July 8, 2018
+
+**Today's Progress**: Did Java exercises on hackerrank, string manipulation stuff and just java recap
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 72-77 July 9-14, 2018
+
+**Today's Progress**: Mostly doing java exercises on hackerrank.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/
+
+### Day 78-79 July 15-16, 2018
+
+**Today's Progress**: Started learning Python by completing hackerrank exercises
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 80-82 July 17-19, 2018
+
+**Today's Progress**: Did more hackerrank python exercises and read in the Hitchhikers Guide to Python
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
