@@ -591,3 +591,19 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 83-85 July 20-23, 2018
+
+**Today's Progress**: More hackerrank on python and Jekyll/HTML/CSS for my personal website.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 86-88 July 24-26, 2018
+
+**Today's Progress**: More hackerrank on python, personal website and reading about state machines.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
