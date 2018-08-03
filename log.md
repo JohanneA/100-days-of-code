@@ -607,3 +607,60 @@
 **Thoughts:**
 
 **Link to work:** [Github](https://github.com/JohanneA/)
+
+
+### Day 89-90 July 27-28, 2018
+
+**Today's Progress**: Did some reading on python and programming in general, learnt a bit about generators, list comprehensions and other python tings. Also started reading "writing efficient programs", did some website inspiration and some kattis exercises.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 91 July 29, 2018
+
+**Today's Progress**: More reading on website development and making a business out of it. Also did some python exercises on hackerrank.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 92 July 30, 2018
+
+**Today's Progress**: Did some python exercises on kattis and some more website design.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 93 July 31, 2018
+
+**Today's Progress**: Read in Writing efficient programs and did some list comprehensions in python
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 94 August 1, 2018
+
+**Today's Progress**: Read in Writing efficient programs and tired to solve a python exercise on kattis
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 95 August 2, 2018
+
+**Today's Progress**: Solved problems on kattis with python
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 96 August 3, 2018
+
+**Today's Progress**: Worked on my website with alignment and figured out how to use calc() and vh vw in css. 
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
