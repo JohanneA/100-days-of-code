@@ -659,7 +659,39 @@
 
 ### Day 96 August 3, 2018
 
-**Today's Progress**: Worked on my website with alignment and figured out how to use calc() and vh vw in css. 
+**Today's Progress**: Worked on my website with alignment and figured out how to use calc() and vh vw in css. Also read about python methods, lambdas and higher order functions.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 97 August 4, 2018
+
+**Today's Progress**: Worked on my website some more and figured out how to make the navbar display the current page. Need to look into permalinks tho.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 98 August 5, 2018
+
+**Today's Progress**: More website stuff and Jekyll, read up on permalinks and front matters. Finished one section on my website and got started on another. Also took some notes from the book 'Writing efficient programs'
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 99 August 6, 2018
+
+**Today's Progress**: Website still and forloop syntax in Liquid. Did notes on Writing efficient programs and some kattis exercises in python.
+
+**Thoughts:**
+
+**Link to work:** [Github](https://github.com/JohanneA/)
+
+### Day 99 August 6, 2018
+
+**Today's Progress**: Website (did some flex things and pulled my hair out over alignment issues) and taking notes for Writing efficient programs. 
 
 **Thoughts:**
 
